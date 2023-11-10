@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Lourenço Silva ou @LourencoSP
-- 👀 Tenho interesse em programação (ainda iniciante) e conhecimento em UX/UI
+- 👀 Tenho interesse em programação (por enquanto mais focado em java) e ainda iniciante e conhecimento em UX/UI
 - 🌱 Estou cursando Sistemas de Informação no IFMG e aprendendo cada vez mais!
 - 📫 Você pode me contatar pelo email lourenco.silvasp@gmail.com
 
