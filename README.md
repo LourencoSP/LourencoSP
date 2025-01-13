@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! Here you’ll find a glimpse of what I’ve been working on lately.
 
-I'm passionate about **back-end development** with a focus on **Java** and learning to build robust and scalable solutions. I also have experience in **UX/UI Design**, complementing my development skills to create complete and functional experiences.
+I'm passionate about **Game Development** and **back-end development** with a focus on **Java** and learning to build robust and scalable solutions. I also have experience in **UX/UI Design**, complementing my development skills to create complete and functional experiences.
 
 💻 **Tech Stack I work with:**
 - **Languages:** Java, SQL  
