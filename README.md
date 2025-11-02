@@ -7,7 +7,7 @@ I'm passionate about **Game Development** and **back-end development** with a fo
 💻 **Tech Stack I work with:**
 - **Languages:** Java, SQL  
 - **Tools & Frameworks:** IntelliJ, MySQL, Spring Boot  
-- **Others:** UX/UI Basics, Design Patterns  
+- **Others:** UX/UI, Design Patterns  
 
 ---
 
