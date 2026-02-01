@@ -1,10 +1,10 @@
 # ✨ Hello! I'm Lourenço Silva ✨
 
 Welcome to my GitHub!  
-I'm a **Software Developer** focused on building clean, scalable and well-structured backend applications using **Java**, **Spring Boot**, and **microservices architecture**.
+I'm a **Backend-focused Software Developer** with a strong interest in building **clean, well-structured applications** using **Java** and **Spring Boot**.
 
-I study **Information Systems at IFMG (6th semester)** and work with backend development, databases, software engineering, and systems architecture.  
-I also have background in **UX/UI Design**, improving the usability and structure of the systems I create.
+I'm currently studying **Information Systems at IFMG (6th semester)** and developing backend projects involving **REST APIs, databases, and software architecture concepts**.  
+I also have a background in **UX/UI Design**, which helps me build systems with better structure and usability.
 
 ---
 
@@ -13,18 +13,18 @@ I also have background in **UX/UI Design**, improving the usability and structur
 ### **Languages**
 - **Java** (main)
 - **SQL**
-- JavaScript *(basic familiarity)*
+- JavaScript *(basic, for API clients and support)*
 
 ### **Backend & Architecture**
 - **Spring Boot**
-- **Microservices**
 - **RESTful APIs**
+- **Microservices-based projects**
 - **JSON / HTTP**
 - **Design Patterns**
-- **OOP**
+- **Object-Oriented Programming (OOP)**
 
 ### **DevOps & Tools**
-- **Docker**
+- **Docker** *(for local development and learning)*
 - **Git & GitHub**
 - **IntelliJ IDEA**
 - **Postman**
@@ -37,43 +37,45 @@ I also have background in **UX/UI Design**, improving the usability and structur
 
 ### **UX/UI & Design**
 - **Figma**
-- Wireframes & Prototyping
-- Basic UI/UX principles
+- Wireframes & Prototypes
+- UI/UX fundamentals
 
 ---
 
 ## 🧠 About Me
 - 🇧🇷 Brazilian developer from Congonhas – MG  
 - 🎓 Information Systems student (Graduation: 2027)  
-- ☕ Backend-focused, Java-first mindset  
+- ☕ Backend-oriented, Java-first mindset  
 - 📘 Completed courses in Java and UX Design  
-- 🔧 Interested in clean architecture, scalable systems, and backend engineering  
-- 🎯 Long-term goal: become a **Software Engineer**, preferably in a top-tier tech company  
+- 🔧 Interested in clean architecture, backend engineering, and scalable systems  
+- 🎯 Long-term goal: become a **Software Engineer**, aiming for high-impact tech companies  
+
+🔍 **Check out my pinned repositories** to see backend projects built with Spring Boot and clean architecture concepts.
 
 ---
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img height="150em" 
-       src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=LourencoSP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=LourencoSP&theme=dark&hide_border=true"/>
+  <img height="150em"
+       src="https://github-readme-stats.vercel.app/api?username=LourencoSP&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150em"
+       src="https://streak-stats.demolab.com?user=LourencoSP&theme=dark&hide_border=true"/>
 </p>
-
 
 ---
 
 ## 📊 Most Used Languages
-<p align="center">
-  <img height="150em" 
-       src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=LourencoSP&layout=compact&theme=dark"/>
-</p>
 
+<p align="center">
+  <img height="150em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoSP&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 🛠 Tech I Use
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
@@ -87,7 +89,12 @@ I also have background in **UX/UI Design**, improving the usability and structur
 ---
 
 ## 🚀 Connect with me!
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/lourenço-silva-45a5b9234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lourenco.silvasp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/lourenço-silva-45a5b9234">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lourenco.silvasp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
