@@ -1,10 +1,10 @@
 # ✨ Hello! I'm Lourenço Silva ✨
 
 Welcome to my GitHub!  
-I'm a **Backend-focused Software Developer** with a strong interest in building **clean, well-structured applications** using **Java** and **Spring Boot**.
+I'm a **Backend-focused Software Developer**, mainly working with **Java** and **Spring Boot**, focused on building **clean, well-structured applications**.
 
 I'm currently studying **Information Systems at IFMG (6th semester)** and developing backend projects involving **REST APIs, databases, and software architecture concepts**.  
-I also have a background in **UX/UI Design**, which helps me build systems with better structure and usability.
+I also have a background in **UX/UI Design**, which helps me create systems with better structure and usability.
 
 ---
 
@@ -13,7 +13,8 @@ I also have a background in **UX/UI Design**, which helps me build systems with 
 ### **Languages**
 - **Java** (main)
 - **SQL**
-- JavaScript *(basic, for API clients and support)*
+- Python *(currently learning)*
+
 
 ### **Backend & Architecture**
 - **Spring Boot**
@@ -24,7 +25,7 @@ I also have a background in **UX/UI Design**, which helps me build systems with 
 - **Object-Oriented Programming (OOP)**
 
 ### **DevOps & Tools**
-- **Docker** *(for local development and learning)*
+- **Docker** *(learning and local development)*
 - **Git & GitHub**
 - **IntelliJ IDEA**
 - **Postman**
@@ -45,9 +46,9 @@ I also have a background in **UX/UI Design**, which helps me build systems with 
 ## 🧠 About Me
 - 🇧🇷 Brazilian developer from Congonhas – MG  
 - 🎓 Information Systems student (Graduation: 2027)  
-- ☕ Backend-oriented, Java-first mindset  
+- ☕ Backend-oriented, engineering-first mindset  
 - 📘 Completed courses in Java and UX Design  
-- 🔧 Interested in clean architecture, backend engineering, and scalable systems  
+- 🔧 Interested in backend engineering, clean architecture, and scalable systems  
 - 🎯 Long-term goal: become a **Software Engineer**, aiming for high-impact tech companies  
 
 🔍 **Check out my pinned repositories** to see backend projects built with Spring Boot and clean architecture concepts.
