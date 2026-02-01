@@ -53,27 +53,7 @@ I also have a background in **UX/UI Design**, which helps me create systems with
 
 🔍 **Check out my pinned repositories** to see backend projects built with Spring Boot and clean architecture concepts.
 
----
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=LourencoSP&show_icons=true"/>
-  <img height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoSP&layout=compact"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img height="150em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoSP&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
----
 
 ## 🛠 Tech I Use
 
