@@ -59,9 +59,9 @@ I also have a background in **UX/UI Design**, which helps me create systems with
 
 <p align="center">
   <img height="150em"
-       src="https://github-readme-stats.vercel.app/api?username=LourencoSP&show_icons=true&theme=dark&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=LourencoSP&show_icons=true"/>
   <img height="150em"
-       src="https://streak-stats.demolab.com?user=LourencoSP&theme=dark&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoSP&layout=compact"/>
 </p>
 
 ---
